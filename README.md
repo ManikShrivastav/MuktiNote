@@ -1,2 +1,2 @@
 # MuktiNote
- Note Taking App Made by Manik Shrivastav as Project Work for Diploma Finals
+This is a note taking App made by Manik Shrivastav. You can use this project as for taking notes. It can Add New,Delete, Read and Save the Notes.
