@@ -1,0 +1,17 @@
+C:\Users\manik\source\repos\VisualProgrammingManik\bin\Debug\net6.0-windows\VisualProgrammingManik.exe
+C:\Users\manik\source\repos\VisualProgrammingManik\bin\Debug\net6.0-windows\VisualProgrammingManik.deps.json
+C:\Users\manik\source\repos\VisualProgrammingManik\bin\Debug\net6.0-windows\VisualProgrammingManik.runtimeconfig.json
+C:\Users\manik\source\repos\VisualProgrammingManik\bin\Debug\net6.0-windows\VisualProgrammingManik.dll
+C:\Users\manik\source\repos\VisualProgrammingManik\bin\Debug\net6.0-windows\ref\VisualProgrammingManik.dll
+C:\Users\manik\source\repos\VisualProgrammingManik\bin\Debug\net6.0-windows\VisualProgrammingManik.pdb
+C:\Users\manik\source\repos\VisualProgrammingManik\obj\Debug\net6.0-windows\VisualProgrammingManik.csproj.AssemblyReference.cache
+C:\Users\manik\source\repos\VisualProgrammingManik\obj\Debug\net6.0-windows\VisualProgrammingManik.Form1.resources
+C:\Users\manik\source\repos\VisualProgrammingManik\obj\Debug\net6.0-windows\VisualProgrammingManik.csproj.GenerateResource.cache
+C:\Users\manik\source\repos\VisualProgrammingManik\obj\Debug\net6.0-windows\VisualProgrammingManik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manik\source\repos\VisualProgrammingManik\obj\Debug\net6.0-windows\VisualProgrammingManik.AssemblyInfoInputs.cache
+C:\Users\manik\source\repos\VisualProgrammingManik\obj\Debug\net6.0-windows\VisualProgrammingManik.AssemblyInfo.cs
+C:\Users\manik\source\repos\VisualProgrammingManik\obj\Debug\net6.0-windows\VisualProgrammingManik.csproj.CoreCompileInputs.cache
+C:\Users\manik\source\repos\VisualProgrammingManik\obj\Debug\net6.0-windows\VisualProgrammingManik.dll
+C:\Users\manik\source\repos\VisualProgrammingManik\obj\Debug\net6.0-windows\ref\VisualProgrammingManik.dll
+C:\Users\manik\source\repos\VisualProgrammingManik\obj\Debug\net6.0-windows\VisualProgrammingManik.pdb
+C:\Users\manik\source\repos\VisualProgrammingManik\obj\Debug\net6.0-windows\VisualProgrammingManik.genruntimeconfig.cache
